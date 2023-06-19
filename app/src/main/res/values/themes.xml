@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.About_me" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Tema general para tipo de fuente y color de texto activity_main portrait -->
+    <style name="theme1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textColor">@color/color_txt4</item>
+    </style>
+
+    <!-- Tema general para tipo de fuente y color de texto activity_main landscape -->
+    <style name="theme2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+  <!-- Tema para boton portrait main. -->
+    <style name="theme_btn_1" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:backgroundTint">@color/color_fab_bgc</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">casual</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <!-- Tema para boton Flotante landscape. -->
+    <style name="theme_btn_2" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:backgroundTint">@color/bgc4</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">casual</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+    <!-- Tema para boton portrait main2. -->
+    <style name="theme_btn_main2">
+        <item name="android:backgroundTint">@color/color_fab_bgc</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">casual</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+
+
+    <style name="Theme.About_me" parent="Base.Theme.About_me" />
+</resources>

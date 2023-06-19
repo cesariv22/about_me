@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="bgc1">#259073</color>
+    <color name="bgc2">#7fda89</color>
+    <color name="bgc3">#c8e98e</color>
+    <color name="color_txt4">#3C2705</color>
+    <color name="color_fab_bgc">#FF186A54</color>
+    <color name="bgc4">#575a65</color>
+    <color name="bgc5">#8f4d65</color>
+    <color name="bgc6">#c74066</color>
+    <color name="bgc7">#cc3e18</color>
+    <color name="color_txt_5">#259073</color>
+    <color name="color_fab_bgc_2">#259073</color>
+
+</resources>

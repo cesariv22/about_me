@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">about_me</string>
+    <string name="titulo">About  Me</string>
+    <string name="txt_nombre">Cesar Riveros Martínez</string>
+    <string name="sub_titulo">FrontEnd JS VUE Developer</string>
+    <string name="sub_titulo2">Android Java Developer</string>
+    <string name="extracto">Mi Extracto</string>
+    <string name="txt_extracto"> Con más de 18 años de experiencia laboral en soluciones integrales para las personas. Me caracteriza la integridad, el liderazgo, el pensamiento analítico y crítico, resolución de conflictos, y buenas relaciones interpersonales.</string>
+    <string name="txt_btn">Compartir</string>
+
+    <string name="titulo_2">Mis Redes</string>
+    <string name="btn_linkedin">Ir a LinkedIn</string>
+    <string name="btn_whatsapp">Ir a Whatsapp</string>
+    <string name="title_message">Email:</string>
+    <string name="txt_message">Mensaje...</string>
+    <string name="txt_btn_msg">Enviar</string>
+    <string name="descrip_linkedin">logo de linkedin</string>
+    <string name="descrip_wapp">logo de whatsapp</string>
+</resources>
